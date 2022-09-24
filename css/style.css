@@ -92,7 +92,7 @@ button:focus {
         font-size: 30px;
         line-height: 34px; } }
   .main_title p {
-    font-size: 21px;
+    font-size: 16px;
     margin-bottom: 0px; }
     @media (max-width: 991px) {
       .main_title p br {
